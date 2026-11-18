@@ -44,14 +44,15 @@ Sayıların basamak sayılarının bulunması.
 ## 5. Test Senaryoları (en az 8)
 
 | No | Girilen sayılar | Beklenen sonuç | Programın sonucu | Doğru mu? |
-| 1  | 6, 0            | 6 mükemmel sayı | 6 mükemmel sayı | Evet |
-| 2  | 7, 0            | 7 asal sayı     | 7 asal sayı     | Evet |
-| 3  | 8, 0            | Asal değil      | Asal değil      | Evet |
-| 4  | -25, 0          | Negatif, tek    | Negatif, tek    | Evet |
-| 5  | 12, 0            | Pozitif, çift   | Pozitif, çift   | Evet |
-| 6  | 28, 0            | Mükemmel sayı   | Mükemmel sayı   | Evet |
-| 7  | 13, 0            | Asal sayı       | Asal sayı       | Evet |
-| 8  | 0               | Hiç sayı girilmedi | Hiç sayı girilmedi | Evet |
+|---|---|---|---|---|
+| 1  | 6, 0| 6 mükemmel sayı| 6 mükemmel sayı| Evet |
+| 2  | 7, 0| 7 asal sayi| 7 asal sayı | Evet |
+| 3  | 8, 0| Asal değil| Asal değil| Evet |
+| 4  | -25, 0| Negatif, tek | Negatif, tek | Evet |
+| 5  | 12, 0| Pozitif, çift | Pozitif, çift| Evet |
+| 6  | 28, 0| Mükemmel sayı| Mükemmel sayı   | Evet |
+| 7  | 13, 0| Asal sayı| Asal sayı | Evet |
+| 8  | 0 | Hiç sayı girilmedi| Hiç sayı girilmedi| Evet |
 
 ## 6. Ek Görevler (Opsiyonel)
 <!-- Max-min farkı, pozitiflerin ortalaması, asal sayı adedi için örnek çıktılar. -->
